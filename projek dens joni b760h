@@ -1,20 +1,154 @@
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="Lokal",SCTV RINGKES
-http://210.210.155.35:80/qwr9ew/s/s03/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",NET
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",NET.
+http://210.210.155.37/uq2663/h/h06/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",INDOSIAR
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",INDOSIAR 2
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",SCTV
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",SCTV 2
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",RTV
+http://210.210.155.37/dr9445/h/h10/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",ANTV
+http://210.210.155.37/qwr9ew/s/s07/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",Kompas_TV
+http://210.210.155.37/qwr9ew/s/s104/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",TVONE
+http://210.210.155.37/qwr9ew/s/s105/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",Metro_TV
+http://210.210.155.37/uq2663/h/h12/index.m3u8 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="Lokal",SCTV ASLI
-http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",MyKidz
+http://210.210.155.37/x6bnqe/h/h191/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",ANIPLUS
+http://210.210.155.37/dr9445/h/h02/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",K-PLUS
+http://210.210.155.37/uq2663/h/h08/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",tvN
+http://210.210.155.37/dr9445/h/h20/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",tvN_Movies
+http://210.210.155.37/dr9445/h/h21/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",CinemaWorld
+http://210.210.155.37/dr9445/h/h04/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",Thrill
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",KIX
+http://210.210.155.37/dr9445/h/h07/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",HITS
+http://210.210.155.37/dr9445/h/h37/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",HITS_MOVIES
+http://210.210.155.37/dr9445/h/h38/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",ROCK_Action
+http://210.210.155.37/dr9445/h/h15/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",MCE MOVIE
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",CCM_Celestial_Classic_MV
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",Celestial_Movies
+http://210.210.155.37/dr9445/h/h14/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",TV5MONDE_ASIE
+http://210.210.155.37/dr9445/s/s212/index.m3u8 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="Lokal",NET ASLI
-http://210.210.155.35/session/58353586-c309-11ed-8d27-c81f66f89318/uq2663/h/h06/01.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="",My_Cinema_HD
+http://210.210.155.37/x6bnqe/h/h192/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",My_Cinema_Asia
+http://210.210.155.37/x6bnqe/h/h193/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",My_Cinema_Europe_HD
+http://210.210.155.37/uq2663/h/h18/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",My_Family_Channel
+http://210.210.155.37/x6bnqe/h/h194/index.m3u8 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="Lokal",NET RINGKES
-http://210.210.155.35/uq2663/h/h06/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",NHK WORLD JPN
+http://210.210.155.37/uq2663/h/h23/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",ROCK_Entertainment
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",Magna_Channel
+http://210.210.155.37/dr9445/h/h24/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",TRT_World
+http://210.210.155.37/uq2663/h/h156/S4/mnf.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",TV5MONDE_Style
+http://210.210.155.37/dr9445/h/h121/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",TBN
+http://210.210.155.37/qwr9ew/s/s39/index.m3u8 
+
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",MotoRRacing_TV
+http://210.210.155.37/uq2663/h/h223/S1/mnf.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",Motorvision_TV
+http://210.210.155.37/uq2663/h/h09/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",TVRI_Sport
+http://210.210.155.37/qwr9ew/s/s107/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",FIGHT SPORT
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19512202_ico.png?ts=1654805380",FIGHT SPORTS HD
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",FIGHT_SPORTS
+http://210.210.155.37/dr9445/h/h05/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",XTRAIL SPORT
+http://210.210.155.37/uq2663/h/h09/index.m3u8
+#EXTINF:-1 group-title="Olahraga",TVRI Sport
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",HorizonSports
+http://210.210.155.37/uq2663/h/h124/index.m3u8 
+
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",FREEDOM
+http://210.210.155.37/uq2663/h/h101/S1/mnf.m3u8  
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",Elshinta_TV
+http://210.210.155.37/qwr9ew/s/s10/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",TVRI
+http://210.210.155.37/qwr9ew/s/s11/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",DAAITV
+http://210.210.155.37/qwr9ew/s/s13/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",RODJA
+http://210.210.155.37/qwr9ew/s/s14/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",SURAU
+http://210.210.155.37/qwr9ew/s/s16/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",Quran_TV
+http://210.210.155.37/qwr9ew/s/s28/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",AL JAZEERA
+http://210.210.155.37/qwr9ew/s/s17/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",Sunna_TV
+http://210.210.155.37/qwr9ew/s/s27/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",CCTV-4
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",NEWS CHINA
+http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",France_24
+http://210.210.155.37/qwr9ew/s/s22/index.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",ARAB
+http://210.210.155.37/qwr9ew/s/s27/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",ARAB2
+http://210.210.155.37/qwr9ew/s/s28/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",RTP QUIZ
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",TBN ASIA
+http://210.210.155.37/qwr9ew/s/s39/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",KIDS CHINA
+http://210.210.155.37/qwr9ew/s/s50/index.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",CNA
+http://210.210.155.37/uq2663/h/h29/02.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",US NEWS
+http://210.210.155.37/dr9445/h/h03/index.m3u8
+
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",DensFood_Channel
+http://210.210.155.37/x6bnqe/s/s38/S1/mnf.m3u8
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",DensLearning_n_Knowledge
+http://210.210.155.37/x6bnqe/s/s36/S1/mnf.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",DensPlay
+http://group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",DensLife_n_Style
+http://210.210.155.37/x6bnqe/s/s65/S1/mnf.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",DensShowBiz
+http://210.210.155.37/x6bnqe/s/s35/S1/mnf.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",DW-TV
+http://210.210.155.37/x6bnqe/s/s25/S1/mnf.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",KCON_2023_Thailand
+http://group1-hwsd-1.dens.tv/s/s100/live.m3u8 
+#EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="",Live_Streaming_2
+http://210.210.155.37/uq2663/h/h998/live.m3u8 
+
+
